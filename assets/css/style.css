@@ -320,8 +320,8 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb url('/assets/img/dm.jpg') repeat;
-  position: relative;
+  background: #a7ffeb url('/assets/img/Jeisson25.jpg') no-repeat center;
+  background-size: cover ;
 }
 
 #intro.section .container {
